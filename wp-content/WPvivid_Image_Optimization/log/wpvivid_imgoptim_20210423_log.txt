@@ -1,0 +1,55 @@
+[2021-04-23 22:52:24][notice]Start backing up image(s).
+[2021-04-23 22:52:24][notice]Start compressing image 2020-landscape-1-300x192.png
+[2021-04-23 22:52:24][notice]Compressing image 2020-landscape-1-300x192.png failed. Error:Need login
+[2021-04-23 22:52:24][notice]Start retrying optimization. Count:1
+[2021-04-23 22:52:24][notice]Start compressing image 2020-landscape-1-300x192.png
+[2021-04-23 22:52:24][notice]Compressing image 2020-landscape-1-300x192.png failed. Error:Need login
+[2021-04-23 22:52:24][notice]Start retrying optimization. Count:2
+[2021-04-23 22:52:24][notice]Start compressing image 2020-landscape-1-300x192.png
+[2021-04-23 22:52:24][notice]Compressing image 2020-landscape-1-300x192.png failed. Error:Need login
+[2021-04-23 22:52:24][notice]Start retrying optimization. Count:3
+[2021-04-23 22:52:24][error]Compressing image 2020-landscape-1-300x192.png failed. Error:Need login
+[2021-04-23 22:53:01][notice]Start backing up image(s).
+[2021-04-23 22:53:01][notice]Start compressing image WPlogo-300x300.png
+[2021-04-23 22:53:01][notice]Compressing image WPlogo-300x300.png failed. Error:Need login
+[2021-04-23 22:53:01][notice]Start retrying optimization. Count:1
+[2021-04-23 22:53:01][notice]Start compressing image WPlogo-300x300.png
+[2021-04-23 22:53:01][notice]Compressing image WPlogo-300x300.png failed. Error:Need login
+[2021-04-23 22:53:01][notice]Start retrying optimization. Count:2
+[2021-04-23 22:53:01][notice]Start compressing image WPlogo-300x300.png
+[2021-04-23 22:53:01][notice]Compressing image WPlogo-300x300.png failed. Error:Need login
+[2021-04-23 22:53:01][notice]Start retrying optimization. Count:3
+[2021-04-23 22:53:01][error]Compressing image WPlogo-300x300.png failed. Error:Need login
+[2021-04-23 22:53:25][notice]Start backing up image(s).
+[2021-04-23 22:53:25][notice]Start compressing image cropped-WPlogo-300x168.png
+[2021-04-23 22:53:25][notice]Compressing image cropped-WPlogo-300x168.png failed. Error:Need login
+[2021-04-23 22:53:25][notice]Start retrying optimization. Count:1
+[2021-04-23 22:53:25][notice]Start compressing image cropped-WPlogo-300x168.png
+[2021-04-23 22:53:25][notice]Compressing image cropped-WPlogo-300x168.png failed. Error:Need login
+[2021-04-23 22:53:25][notice]Start retrying optimization. Count:2
+[2021-04-23 22:53:25][notice]Start compressing image cropped-WPlogo-300x168.png
+[2021-04-23 22:53:25][notice]Compressing image cropped-WPlogo-300x168.png failed. Error:Need login
+[2021-04-23 22:53:25][notice]Start retrying optimization. Count:3
+[2021-04-23 22:53:25][error]Compressing image cropped-WPlogo-300x168.png failed. Error:Need login
+[2021-04-23 22:53:55][notice]Start backing up image(s).
+[2021-04-23 22:53:55][notice]Start compressing image Y-300x242.jpg
+[2021-04-23 22:53:55][notice]Compressing image Y-300x242.jpg failed. Error:Need login
+[2021-04-23 22:53:55][notice]Start retrying optimization. Count:1
+[2021-04-23 22:53:55][notice]Start compressing image Y-300x242.jpg
+[2021-04-23 22:53:55][notice]Compressing image Y-300x242.jpg failed. Error:Need login
+[2021-04-23 22:53:55][notice]Start retrying optimization. Count:2
+[2021-04-23 22:53:55][notice]Start compressing image Y-300x242.jpg
+[2021-04-23 22:53:55][notice]Compressing image Y-300x242.jpg failed. Error:Need login
+[2021-04-23 22:53:55][notice]Start retrying optimization. Count:3
+[2021-04-23 22:53:55][error]Compressing image Y-300x242.jpg failed. Error:Need login
+[2021-04-23 22:54:18][notice]Start backing up image(s).
+[2021-04-23 22:54:18][notice]Start compressing image cropped-Y-300x300.jpg
+[2021-04-23 22:54:18][notice]Compressing image cropped-Y-300x300.jpg failed. Error:Need login
+[2021-04-23 22:54:18][notice]Start retrying optimization. Count:1
+[2021-04-23 22:54:18][notice]Start compressing image cropped-Y-300x300.jpg
+[2021-04-23 22:54:18][notice]Compressing image cropped-Y-300x300.jpg failed. Error:Need login
+[2021-04-23 22:54:18][notice]Start retrying optimization. Count:2
+[2021-04-23 22:54:18][notice]Start compressing image cropped-Y-300x300.jpg
+[2021-04-23 22:54:18][notice]Compressing image cropped-Y-300x300.jpg failed. Error:Need login
+[2021-04-23 22:54:18][notice]Start retrying optimization. Count:3
+[2021-04-23 22:54:18][error]Compressing image cropped-Y-300x300.jpg failed. Error:Need login

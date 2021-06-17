@@ -1,0 +1,287 @@
+[2021-05-10 15:30:37][notice]Start backing up image(s).
+[2021-05-10 15:30:37][notice]Start compressing image 33b42ca3c3bc0d0d25a30e22a6fca15e.png
+[2021-05-10 15:30:37][notice]Compressing image 33b42ca3c3bc0d0d25a30e22a6fca15e.png failed. Error:Need login
+[2021-05-10 15:30:37][notice]Start retrying optimization. Count:1
+[2021-05-10 15:30:37][notice]Start compressing image 33b42ca3c3bc0d0d25a30e22a6fca15e.png
+[2021-05-10 15:30:37][notice]Compressing image 33b42ca3c3bc0d0d25a30e22a6fca15e.png failed. Error:Need login
+[2021-05-10 15:30:37][notice]Start retrying optimization. Count:2
+[2021-05-10 15:30:37][notice]Start compressing image 33b42ca3c3bc0d0d25a30e22a6fca15e.png
+[2021-05-10 15:30:37][notice]Compressing image 33b42ca3c3bc0d0d25a30e22a6fca15e.png failed. Error:Need login
+[2021-05-10 15:30:37][notice]Start retrying optimization. Count:3
+[2021-05-10 15:30:37][notice]Start backing up image(s).
+[2021-05-10 15:30:37][error]Compressing image 33b42ca3c3bc0d0d25a30e22a6fca15e.png failed. Error:Need login
+[2021-05-10 15:30:37][notice]Start compressing image b1b0d5fa159e3cf534060c0f69bd711a-173x300.jpg
+[2021-05-10 15:30:37][notice]Compressing image b1b0d5fa159e3cf534060c0f69bd711a-173x300.jpg failed. Error:Need login
+[2021-05-10 15:30:37][notice]Start retrying optimization. Count:1
+[2021-05-10 15:30:37][notice]Start compressing image b1b0d5fa159e3cf534060c0f69bd711a-173x300.jpg
+[2021-05-10 15:30:37][notice]Compressing image b1b0d5fa159e3cf534060c0f69bd711a-173x300.jpg failed. Error:Need login
+[2021-05-10 15:30:37][notice]Start retrying optimization. Count:2
+[2021-05-10 15:30:37][notice]Start compressing image b1b0d5fa159e3cf534060c0f69bd711a-173x300.jpg
+[2021-05-10 15:30:37][notice]Compressing image b1b0d5fa159e3cf534060c0f69bd711a-173x300.jpg failed. Error:Need login
+[2021-05-10 15:30:37][notice]Start retrying optimization. Count:3
+[2021-05-10 15:30:37][error]Compressing image b1b0d5fa159e3cf534060c0f69bd711a-173x300.jpg failed. Error:Need login
+[2021-05-10 15:30:39][notice]Start resizing image id:498
+[2021-05-10 15:30:39][notice]Start backing up image(s).
+[2021-05-10 15:30:39][notice]Start compressing image 45b783ad77b8ea52fa7e512bd2173ec0-122x300.jpg
+[2021-05-10 15:30:39][notice]Compressing image 45b783ad77b8ea52fa7e512bd2173ec0-122x300.jpg failed. Error:Need login
+[2021-05-10 15:30:39][notice]Start retrying optimization. Count:1
+[2021-05-10 15:30:39][notice]Start compressing image 45b783ad77b8ea52fa7e512bd2173ec0-122x300.jpg
+[2021-05-10 15:30:39][notice]Compressing image 45b783ad77b8ea52fa7e512bd2173ec0-122x300.jpg failed. Error:Need login
+[2021-05-10 15:30:39][notice]Start retrying optimization. Count:2
+[2021-05-10 15:30:39][notice]Start compressing image 45b783ad77b8ea52fa7e512bd2173ec0-122x300.jpg
+[2021-05-10 15:30:39][notice]Compressing image 45b783ad77b8ea52fa7e512bd2173ec0-122x300.jpg failed. Error:Need login
+[2021-05-10 15:30:39][notice]Start retrying optimization. Count:3
+[2021-05-10 15:30:39][error]Compressing image 45b783ad77b8ea52fa7e512bd2173ec0-122x300.jpg failed. Error:Need login
+[2021-05-10 15:30:40][notice]Start backing up image(s).
+[2021-05-10 15:30:40][notice]Start compressing image db5dfee3433d3b85799dc26c5c2dd98a-178x300.png
+[2021-05-10 15:30:40][notice]Compressing image db5dfee3433d3b85799dc26c5c2dd98a-178x300.png failed. Error:Need login
+[2021-05-10 15:30:40][notice]Start retrying optimization. Count:1
+[2021-05-10 15:30:40][notice]Start compressing image db5dfee3433d3b85799dc26c5c2dd98a-178x300.png
+[2021-05-10 15:30:40][notice]Compressing image db5dfee3433d3b85799dc26c5c2dd98a-178x300.png failed. Error:Need login
+[2021-05-10 15:30:40][notice]Start retrying optimization. Count:2
+[2021-05-10 15:30:40][notice]Start compressing image db5dfee3433d3b85799dc26c5c2dd98a-178x300.png
+[2021-05-10 15:30:40][notice]Compressing image db5dfee3433d3b85799dc26c5c2dd98a-178x300.png failed. Error:Need login
+[2021-05-10 15:30:40][notice]Start retrying optimization. Count:3
+[2021-05-10 15:30:40][error]Compressing image db5dfee3433d3b85799dc26c5c2dd98a-178x300.png failed. Error:Need login
+[2021-05-10 15:30:40][notice]Start backing up image(s).
+[2021-05-10 15:30:40][notice]Start compressing image 8ad2239eaa07b8a4b245adeefef37231-150x150.jpg
+[2021-05-10 15:30:40][notice]Compressing image 8ad2239eaa07b8a4b245adeefef37231-150x150.jpg failed. Error:Need login
+[2021-05-10 15:30:40][notice]Start retrying optimization. Count:1
+[2021-05-10 15:30:40][notice]Start compressing image 8ad2239eaa07b8a4b245adeefef37231-150x150.jpg
+[2021-05-10 15:30:40][notice]Compressing image 8ad2239eaa07b8a4b245adeefef37231-150x150.jpg failed. Error:Need login
+[2021-05-10 15:30:40][notice]Start retrying optimization. Count:2
+[2021-05-10 15:30:40][notice]Start backing up image(s).
+[2021-05-10 15:30:40][notice]Start compressing image 8ad2239eaa07b8a4b245adeefef37231-150x150.jpg
+[2021-05-10 15:30:40][notice]Compressing image 8ad2239eaa07b8a4b245adeefef37231-150x150.jpg failed. Error:Need login
+[2021-05-10 15:30:40][notice]Start compressing image 289288834dfb7187bd5cd5ba727f78a5-150x150.jpg
+[2021-05-10 15:30:40][notice]Compressing image 289288834dfb7187bd5cd5ba727f78a5-150x150.jpg failed. Error:Need login
+[2021-05-10 15:30:40][notice]Start retrying optimization. Count:3
+[2021-05-10 15:30:40][notice]Start backing up image(s).
+[2021-05-10 15:30:40][error]Compressing image 8ad2239eaa07b8a4b245adeefef37231-150x150.jpg failed. Error:Need login
+[2021-05-10 15:30:40][notice]Start retrying optimization. Count:1
+[2021-05-10 15:30:40][notice]Start compressing image 1cafa2507d96a40bcb5ae493ba2901fd-300x200.jpg
+[2021-05-10 15:30:40][notice]Start compressing image 289288834dfb7187bd5cd5ba727f78a5-150x150.jpg
+[2021-05-10 15:30:40][notice]Compressing image 1cafa2507d96a40bcb5ae493ba2901fd-300x200.jpg failed. Error:Need login
+[2021-05-10 15:30:40][notice]Compressing image 289288834dfb7187bd5cd5ba727f78a5-150x150.jpg failed. Error:Need login
+[2021-05-10 15:30:40][notice]Start retrying optimization. Count:1
+[2021-05-10 15:30:40][notice]Start retrying optimization. Count:2
+[2021-05-10 15:30:40][notice]Start compressing image 1cafa2507d96a40bcb5ae493ba2901fd-300x200.jpg
+[2021-05-10 15:30:40][notice]Start compressing image 289288834dfb7187bd5cd5ba727f78a5-150x150.jpg
+[2021-05-10 15:30:40][notice]Compressing image 1cafa2507d96a40bcb5ae493ba2901fd-300x200.jpg failed. Error:Need login
+[2021-05-10 15:30:40][notice]Compressing image 289288834dfb7187bd5cd5ba727f78a5-150x150.jpg failed. Error:Need login
+[2021-05-10 15:30:40][notice]Start retrying optimization. Count:3
+[2021-05-10 15:30:40][notice]Start retrying optimization. Count:2
+[2021-05-10 15:30:41][error]Compressing image 289288834dfb7187bd5cd5ba727f78a5-150x150.jpg failed. Error:Need login
+[2021-05-10 15:30:41][notice]Start compressing image 1cafa2507d96a40bcb5ae493ba2901fd-300x200.jpg
+[2021-05-10 15:30:41][notice]Compressing image 1cafa2507d96a40bcb5ae493ba2901fd-300x200.jpg failed. Error:Need login
+[2021-05-10 15:30:41][notice]Start retrying optimization. Count:3
+[2021-05-10 15:30:41][notice]Start resizing image id:495
+[2021-05-10 15:30:41][error]Compressing image 1cafa2507d96a40bcb5ae493ba2901fd-300x200.jpg failed. Error:Need login
+[2021-05-10 15:30:41][notice]Start resizing image id:498
+[2021-05-10 15:30:41][notice]Start backing up image(s).
+[2021-05-10 15:30:41][notice]Start compressing image 326423115629f42ff441f5f935c51076-300x141.jpg
+[2021-05-10 15:30:41][notice]Compressing image 326423115629f42ff441f5f935c51076-300x141.jpg failed. Error:Need login
+[2021-05-10 15:30:41][notice]Start retrying optimization. Count:1
+[2021-05-10 15:30:41][notice]Start compressing image 326423115629f42ff441f5f935c51076-300x141.jpg
+[2021-05-10 15:30:41][notice]Compressing image 326423115629f42ff441f5f935c51076-300x141.jpg failed. Error:Need login
+[2021-05-10 15:30:41][notice]Start retrying optimization. Count:2
+[2021-05-10 15:30:41][notice]Start compressing image 326423115629f42ff441f5f935c51076-300x141.jpg
+[2021-05-10 15:30:41][notice]Compressing image 326423115629f42ff441f5f935c51076-300x141.jpg failed. Error:Need login
+[2021-05-10 15:30:41][notice]Start retrying optimization. Count:3
+[2021-05-10 15:30:41][error]Compressing image 326423115629f42ff441f5f935c51076-300x141.jpg failed. Error:Need login
+[2021-05-10 15:30:41][notice]Start backing up image(s).
+[2021-05-10 15:30:41][notice]Start compressing image 326423115629f42ff441f5f935c51076-300x141.jpg
+[2021-05-10 15:30:41][notice]Compressing image 326423115629f42ff441f5f935c51076-300x141.jpg failed. Error:Need login
+[2021-05-10 15:30:41][notice]Start backing up image(s).
+[2021-05-10 15:30:41][notice]Start retrying optimization. Count:1
+[2021-05-10 15:30:41][notice]Start compressing image 326423115629f42ff441f5f935c51076-300x141.jpg
+[2021-05-10 15:30:41][notice]Start compressing image 4073958e375ef0bead7a1ee43656f61e-300x200.jpg
+[2021-05-10 15:30:41][notice]Compressing image 326423115629f42ff441f5f935c51076-300x141.jpg failed. Error:Need login
+[2021-05-10 15:30:41][notice]Compressing image 4073958e375ef0bead7a1ee43656f61e-300x200.jpg failed. Error:Need login
+[2021-05-10 15:30:41][notice]Start retrying optimization. Count:2
+[2021-05-10 15:30:41][notice]Start retrying optimization. Count:1
+[2021-05-10 15:30:41][notice]Start compressing image 326423115629f42ff441f5f935c51076-300x141.jpg
+[2021-05-10 15:30:41][notice]Start compressing image 4073958e375ef0bead7a1ee43656f61e-300x200.jpg
+[2021-05-10 15:30:41][notice]Start resizing image id:500
+[2021-05-10 15:30:41][notice]Compressing image 326423115629f42ff441f5f935c51076-300x141.jpg failed. Error:Need login
+[2021-05-10 15:30:41][notice]Compressing image 4073958e375ef0bead7a1ee43656f61e-300x200.jpg failed. Error:Need login
+[2021-05-10 15:30:41][notice]Start retrying optimization. Count:3
+[2021-05-10 15:30:41][notice]Start retrying optimization. Count:2
+[2021-05-10 15:30:41][error]Compressing image 326423115629f42ff441f5f935c51076-300x141.jpg failed. Error:Need login
+[2021-05-10 15:30:41][notice]Start compressing image 4073958e375ef0bead7a1ee43656f61e-300x200.jpg
+[2021-05-10 15:30:41][notice]Compressing image 4073958e375ef0bead7a1ee43656f61e-300x200.jpg failed. Error:Need login
+[2021-05-10 15:30:41][notice]Start retrying optimization. Count:3
+[2021-05-10 15:30:41][error]Compressing image 4073958e375ef0bead7a1ee43656f61e-300x200.jpg failed. Error:Need login
+[2021-05-10 15:30:42][notice]Start backing up image(s).
+[2021-05-10 15:30:42][notice]Start compressing image a5e118716322b60a077d6c3b3ac21a48-125x150.png
+[2021-05-10 15:30:42][notice]Compressing image a5e118716322b60a077d6c3b3ac21a48-125x150.png failed. Error:Need login
+[2021-05-10 15:30:42][notice]Start retrying optimization. Count:1
+[2021-05-10 15:30:42][notice]Start compressing image a5e118716322b60a077d6c3b3ac21a48-125x150.png
+[2021-05-10 15:30:42][notice]Compressing image a5e118716322b60a077d6c3b3ac21a48-125x150.png failed. Error:Need login
+[2021-05-10 15:30:42][notice]Start retrying optimization. Count:2
+[2021-05-10 15:30:42][notice]Start compressing image a5e118716322b60a077d6c3b3ac21a48-125x150.png
+[2021-05-10 15:30:42][notice]Compressing image a5e118716322b60a077d6c3b3ac21a48-125x150.png failed. Error:Need login
+[2021-05-10 15:30:42][notice]Start retrying optimization. Count:3
+[2021-05-10 15:30:42][error]Compressing image a5e118716322b60a077d6c3b3ac21a48-125x150.png failed. Error:Need login
+[2021-05-10 15:30:42][notice]Start resizing image id:501
+[2021-05-10 15:30:43][notice]Start backing up image(s).
+[2021-05-10 15:30:43][notice]Start compressing image 625f6eef059127f704fc682fcfb4858f-300x147.jpg
+[2021-05-10 15:30:43][notice]Compressing image 625f6eef059127f704fc682fcfb4858f-300x147.jpg failed. Error:Need login
+[2021-05-10 15:30:43][notice]Start retrying optimization. Count:1
+[2021-05-10 15:30:43][notice]Start compressing image 625f6eef059127f704fc682fcfb4858f-300x147.jpg
+[2021-05-10 15:30:43][notice]Compressing image 625f6eef059127f704fc682fcfb4858f-300x147.jpg failed. Error:Need login
+[2021-05-10 15:30:43][notice]Start retrying optimization. Count:2
+[2021-05-10 15:30:43][notice]Start compressing image 625f6eef059127f704fc682fcfb4858f-300x147.jpg
+[2021-05-10 15:30:43][notice]Compressing image 625f6eef059127f704fc682fcfb4858f-300x147.jpg failed. Error:Need login
+[2021-05-10 15:30:43][notice]Start retrying optimization. Count:3
+[2021-05-10 15:30:43][error]Compressing image 625f6eef059127f704fc682fcfb4858f-300x147.jpg failed. Error:Need login
+[2021-05-10 15:30:44][notice]Start resizing image id:495
+[2021-05-10 15:30:44][notice]Start resizing image id:508
+[2021-05-10 15:30:44][notice]Start backing up image(s).
+[2021-05-10 15:30:44][notice]Start compressing image ea8fd7e805dfee1a1e64605e86c3a902-300x225.jpg
+[2021-05-10 15:30:44][notice]Compressing image ea8fd7e805dfee1a1e64605e86c3a902-300x225.jpg failed. Error:Need login
+[2021-05-10 15:30:44][notice]Start retrying optimization. Count:1
+[2021-05-10 15:30:44][notice]Start compressing image ea8fd7e805dfee1a1e64605e86c3a902-300x225.jpg
+[2021-05-10 15:30:44][notice]Compressing image ea8fd7e805dfee1a1e64605e86c3a902-300x225.jpg failed. Error:Need login
+[2021-05-10 15:30:44][notice]Start retrying optimization. Count:2
+[2021-05-10 15:30:44][notice]Start compressing image ea8fd7e805dfee1a1e64605e86c3a902-300x225.jpg
+[2021-05-10 15:30:44][notice]Compressing image ea8fd7e805dfee1a1e64605e86c3a902-300x225.jpg failed. Error:Need login
+[2021-05-10 15:30:44][notice]Start retrying optimization. Count:3
+[2021-05-10 15:30:44][error]Compressing image ea8fd7e805dfee1a1e64605e86c3a902-300x225.jpg failed. Error:Need login
+[2021-05-10 15:30:44][notice]Start backing up image(s).
+[2021-05-10 15:30:44][notice]Start compressing image ea8fd7e805dfee1a1e64605e86c3a902-300x225.jpg
+[2021-05-10 15:30:44][notice]Compressing image ea8fd7e805dfee1a1e64605e86c3a902-300x225.jpg failed. Error:Need login
+[2021-05-10 15:30:44][notice]Start retrying optimization. Count:1
+[2021-05-10 15:30:44][notice]Start compressing image ea8fd7e805dfee1a1e64605e86c3a902-300x225.jpg
+[2021-05-10 15:30:44][notice]Compressing image ea8fd7e805dfee1a1e64605e86c3a902-300x225.jpg failed. Error:Need login
+[2021-05-10 15:30:44][notice]Start retrying optimization. Count:2
+[2021-05-10 15:30:44][notice]Start compressing image ea8fd7e805dfee1a1e64605e86c3a902-300x225.jpg
+[2021-05-10 15:30:44][notice]Compressing image ea8fd7e805dfee1a1e64605e86c3a902-300x225.jpg failed. Error:Need login
+[2021-05-10 15:30:44][notice]Start retrying optimization. Count:3
+[2021-05-10 15:30:44][notice]Start resizing image id:500
+[2021-05-10 15:30:44][error]Compressing image ea8fd7e805dfee1a1e64605e86c3a902-300x225.jpg failed. Error:Need login
+[2021-05-10 15:30:44][notice]Start backing up image(s).
+[2021-05-10 15:30:44][notice]Start compressing image cef866583b4d2cebd041bbe04844ab1a-300x213.jpg
+[2021-05-10 15:30:44][notice]Compressing image cef866583b4d2cebd041bbe04844ab1a-300x213.jpg failed. Error:Need login
+[2021-05-10 15:30:44][notice]Start retrying optimization. Count:1
+[2021-05-10 15:30:44][notice]Start compressing image cef866583b4d2cebd041bbe04844ab1a-300x213.jpg
+[2021-05-10 15:30:44][notice]Compressing image cef866583b4d2cebd041bbe04844ab1a-300x213.jpg failed. Error:Need login
+[2021-05-10 15:30:44][notice]Start retrying optimization. Count:2
+[2021-05-10 15:30:44][notice]Start compressing image cef866583b4d2cebd041bbe04844ab1a-300x213.jpg
+[2021-05-10 15:30:44][notice]Compressing image cef866583b4d2cebd041bbe04844ab1a-300x213.jpg failed. Error:Need login
+[2021-05-10 15:30:44][notice]Start retrying optimization. Count:3
+[2021-05-10 15:30:44][error]Compressing image cef866583b4d2cebd041bbe04844ab1a-300x213.jpg failed. Error:Need login
+[2021-05-10 15:30:44][notice]Start backing up image(s).
+[2021-05-10 15:30:44][notice]Start compressing image cef866583b4d2cebd041bbe04844ab1a-300x213.jpg
+[2021-05-10 15:30:44][notice]Compressing image cef866583b4d2cebd041bbe04844ab1a-300x213.jpg failed. Error:Need login
+[2021-05-10 15:30:44][notice]Start retrying optimization. Count:1
+[2021-05-10 15:30:44][notice]Start compressing image cef866583b4d2cebd041bbe04844ab1a-300x213.jpg
+[2021-05-10 15:30:44][notice]Compressing image cef866583b4d2cebd041bbe04844ab1a-300x213.jpg failed. Error:Need login
+[2021-05-10 15:30:44][notice]Start retrying optimization. Count:2
+[2021-05-10 15:30:44][notice]Start resizing image id:510
+[2021-05-10 15:30:44][notice]Start compressing image cef866583b4d2cebd041bbe04844ab1a-300x213.jpg
+[2021-05-10 15:30:44][notice]Compressing image cef866583b4d2cebd041bbe04844ab1a-300x213.jpg failed. Error:Need login
+[2021-05-10 15:30:44][notice]Start retrying optimization. Count:3
+[2021-05-10 15:30:44][error]Compressing image cef866583b4d2cebd041bbe04844ab1a-300x213.jpg failed. Error:Need login
+[2021-05-10 15:30:44][notice]Start resizing image id:501
+[2021-05-10 15:30:44][notice]Start backing up image(s).
+[2021-05-10 15:30:44][notice]Start compressing image 42ca60b9f3209ca47988a24d9739393b-300x197.jpg
+[2021-05-10 15:30:44][notice]Compressing image 42ca60b9f3209ca47988a24d9739393b-300x197.jpg failed. Error:Need login
+[2021-05-10 15:30:44][notice]Start retrying optimization. Count:1
+[2021-05-10 15:30:44][notice]Start compressing image 42ca60b9f3209ca47988a24d9739393b-300x197.jpg
+[2021-05-10 15:30:44][notice]Compressing image 42ca60b9f3209ca47988a24d9739393b-300x197.jpg failed. Error:Need login
+[2021-05-10 15:30:44][notice]Start retrying optimization. Count:2
+[2021-05-10 15:30:44][notice]Start compressing image 42ca60b9f3209ca47988a24d9739393b-300x197.jpg
+[2021-05-10 15:30:44][notice]Compressing image 42ca60b9f3209ca47988a24d9739393b-300x197.jpg failed. Error:Need login
+[2021-05-10 15:30:44][notice]Start retrying optimization. Count:3
+[2021-05-10 15:30:44][error]Compressing image 42ca60b9f3209ca47988a24d9739393b-300x197.jpg failed. Error:Need login
+[2021-05-10 15:30:44][notice]Start backing up image(s).
+[2021-05-10 15:30:44][notice]Start compressing image 42ca60b9f3209ca47988a24d9739393b-300x197.jpg
+[2021-05-10 15:30:44][notice]Compressing image 42ca60b9f3209ca47988a24d9739393b-300x197.jpg failed. Error:Need login
+[2021-05-10 15:30:44][notice]Start retrying optimization. Count:1
+[2021-05-10 15:30:44][notice]Start compressing image 42ca60b9f3209ca47988a24d9739393b-300x197.jpg
+[2021-05-10 15:30:44][notice]Compressing image 42ca60b9f3209ca47988a24d9739393b-300x197.jpg failed. Error:Need login
+[2021-05-10 15:30:44][notice]Start retrying optimization. Count:2
+[2021-05-10 15:30:44][notice]Start compressing image 42ca60b9f3209ca47988a24d9739393b-300x197.jpg
+[2021-05-10 15:30:44][notice]Compressing image 42ca60b9f3209ca47988a24d9739393b-300x197.jpg failed. Error:Need login
+[2021-05-10 15:30:44][notice]Start retrying optimization. Count:3
+[2021-05-10 15:30:44][error]Compressing image 42ca60b9f3209ca47988a24d9739393b-300x197.jpg failed. Error:Need login
+[2021-05-10 15:30:45][notice]Start resizing image id:508
+[2021-05-10 15:30:45][notice]Start backing up image(s).
+[2021-05-10 15:30:45][notice]Start compressing image 2ab9f0c40a013cc79f8928a8f4f528f2-300x158.jpg
+[2021-05-10 15:30:45][notice]Compressing image 2ab9f0c40a013cc79f8928a8f4f528f2-300x158.jpg failed. Error:Need login
+[2021-05-10 15:30:45][notice]Start retrying optimization. Count:1
+[2021-05-10 15:30:45][notice]Start compressing image 2ab9f0c40a013cc79f8928a8f4f528f2-300x158.jpg
+[2021-05-10 15:30:45][notice]Compressing image 2ab9f0c40a013cc79f8928a8f4f528f2-300x158.jpg failed. Error:Need login
+[2021-05-10 15:30:45][notice]Start retrying optimization. Count:2
+[2021-05-10 15:30:45][notice]Start compressing image 2ab9f0c40a013cc79f8928a8f4f528f2-300x158.jpg
+[2021-05-10 15:30:45][notice]Compressing image 2ab9f0c40a013cc79f8928a8f4f528f2-300x158.jpg failed. Error:Need login
+[2021-05-10 15:30:45][notice]Start retrying optimization. Count:3
+[2021-05-10 15:30:45][error]Compressing image 2ab9f0c40a013cc79f8928a8f4f528f2-300x158.jpg failed. Error:Need login
+[2021-05-10 15:30:45][notice]Start backing up image(s).
+[2021-05-10 15:30:45][notice]Start compressing image 2ab9f0c40a013cc79f8928a8f4f528f2-300x158.jpg
+[2021-05-10 15:30:45][notice]Compressing image 2ab9f0c40a013cc79f8928a8f4f528f2-300x158.jpg failed. Error:Need login
+[2021-05-10 15:30:45][notice]Start retrying optimization. Count:1
+[2021-05-10 15:30:45][notice]Start compressing image 2ab9f0c40a013cc79f8928a8f4f528f2-300x158.jpg
+[2021-05-10 15:30:45][notice]Compressing image 2ab9f0c40a013cc79f8928a8f4f528f2-300x158.jpg failed. Error:Need login
+[2021-05-10 15:30:45][notice]Start retrying optimization. Count:2
+[2021-05-10 15:30:45][notice]Start compressing image 2ab9f0c40a013cc79f8928a8f4f528f2-300x158.jpg
+[2021-05-10 15:30:45][notice]Compressing image 2ab9f0c40a013cc79f8928a8f4f528f2-300x158.jpg failed. Error:Need login
+[2021-05-10 15:30:45][notice]Start retrying optimization. Count:3
+[2021-05-10 15:30:45][error]Compressing image 2ab9f0c40a013cc79f8928a8f4f528f2-300x158.jpg failed. Error:Need login
+[2021-05-10 15:30:45][notice]Start resizing image id:510
+[2021-05-10 15:30:45][notice]Start backing up image(s).
+[2021-05-10 15:30:45][notice]Start compressing image aa3143bd3b108b526559c365ba8feb8d-300x150.jpg
+[2021-05-10 15:30:45][notice]Compressing image aa3143bd3b108b526559c365ba8feb8d-300x150.jpg failed. Error:Need login
+[2021-05-10 15:30:45][notice]Start retrying optimization. Count:1
+[2021-05-10 15:30:45][notice]Start compressing image aa3143bd3b108b526559c365ba8feb8d-300x150.jpg
+[2021-05-10 15:30:45][notice]Compressing image aa3143bd3b108b526559c365ba8feb8d-300x150.jpg failed. Error:Need login
+[2021-05-10 15:30:45][notice]Start retrying optimization. Count:2
+[2021-05-10 15:30:45][notice]Start compressing image aa3143bd3b108b526559c365ba8feb8d-300x150.jpg
+[2021-05-10 15:30:45][notice]Compressing image aa3143bd3b108b526559c365ba8feb8d-300x150.jpg failed. Error:Need login
+[2021-05-10 15:30:45][notice]Start retrying optimization. Count:3
+[2021-05-10 15:30:45][error]Compressing image aa3143bd3b108b526559c365ba8feb8d-300x150.jpg failed. Error:Need login
+[2021-05-10 15:30:45][notice]Start backing up image(s).
+[2021-05-10 15:30:45][notice]Start compressing image aa3143bd3b108b526559c365ba8feb8d-300x150.jpg
+[2021-05-10 15:30:45][notice]Compressing image aa3143bd3b108b526559c365ba8feb8d-300x150.jpg failed. Error:Need login
+[2021-05-10 15:30:45][notice]Start retrying optimization. Count:1
+[2021-05-10 15:30:45][notice]Start compressing image aa3143bd3b108b526559c365ba8feb8d-300x150.jpg
+[2021-05-10 15:30:45][notice]Compressing image aa3143bd3b108b526559c365ba8feb8d-300x150.jpg failed. Error:Need login
+[2021-05-10 15:30:45][notice]Start retrying optimization. Count:2
+[2021-05-10 15:30:45][notice]Start compressing image aa3143bd3b108b526559c365ba8feb8d-300x150.jpg
+[2021-05-10 15:30:45][notice]Compressing image aa3143bd3b108b526559c365ba8feb8d-300x150.jpg failed. Error:Need login
+[2021-05-10 15:30:45][notice]Start retrying optimization. Count:3
+[2021-05-10 15:30:45][error]Compressing image aa3143bd3b108b526559c365ba8feb8d-300x150.jpg failed. Error:Need login
+[2021-05-10 15:39:39][notice]Start backing up image(s).
+[2021-05-10 15:39:39][notice]Start compressing image b28408837944d465722b8612e6a7e356-300x200.jpg
+[2021-05-10 15:39:39][notice]Compressing image b28408837944d465722b8612e6a7e356-300x200.jpg failed. Error:Need login
+[2021-05-10 15:39:39][notice]Start retrying optimization. Count:1
+[2021-05-10 15:39:39][notice]Start compressing image b28408837944d465722b8612e6a7e356-300x200.jpg
+[2021-05-10 15:39:39][notice]Compressing image b28408837944d465722b8612e6a7e356-300x200.jpg failed. Error:Need login
+[2021-05-10 15:39:39][notice]Start retrying optimization. Count:2
+[2021-05-10 15:39:39][notice]Start compressing image b28408837944d465722b8612e6a7e356-300x200.jpg
+[2021-05-10 15:39:39][notice]Compressing image b28408837944d465722b8612e6a7e356-300x200.jpg failed. Error:Need login
+[2021-05-10 15:39:39][notice]Start retrying optimization. Count:3
+[2021-05-10 15:39:39][error]Compressing image b28408837944d465722b8612e6a7e356-300x200.jpg failed. Error:Need login
+[2021-05-10 21:02:40][notice]Start backing up image(s).
+[2021-05-10 21:02:40][notice]Start compressing image jaynelle-768x1024-3-600x400-1-300x200.jpg
+[2021-05-10 21:02:40][notice]Compressing image jaynelle-768x1024-3-600x400-1-300x200.jpg failed. Error:Need login
+[2021-05-10 21:02:40][notice]Start retrying optimization. Count:1
+[2021-05-10 21:02:40][notice]Start compressing image jaynelle-768x1024-3-600x400-1-300x200.jpg
+[2021-05-10 21:02:40][notice]Compressing image jaynelle-768x1024-3-600x400-1-300x200.jpg failed. Error:Need login
+[2021-05-10 21:02:40][notice]Start retrying optimization. Count:2
+[2021-05-10 21:02:40][notice]Start compressing image jaynelle-768x1024-3-600x400-1-300x200.jpg
+[2021-05-10 21:02:40][notice]Compressing image jaynelle-768x1024-3-600x400-1-300x200.jpg failed. Error:Need login
+[2021-05-10 21:02:40][notice]Start retrying optimization. Count:3
+[2021-05-10 21:02:40][error]Compressing image jaynelle-768x1024-3-600x400-1-300x200.jpg failed. Error:Need login
+[2021-05-10 21:03:00][notice]Start backing up image(s).
+[2021-05-10 21:03:00][notice]Start compressing image cropped-jaynelle-768x1024-3-600x400-1-300x300.jpg
+[2021-05-10 21:03:00][notice]Compressing image cropped-jaynelle-768x1024-3-600x400-1-300x300.jpg failed. Error:Need login
+[2021-05-10 21:03:00][notice]Start retrying optimization. Count:1
+[2021-05-10 21:03:00][notice]Start compressing image cropped-jaynelle-768x1024-3-600x400-1-300x300.jpg
+[2021-05-10 21:03:00][notice]Compressing image cropped-jaynelle-768x1024-3-600x400-1-300x300.jpg failed. Error:Need login
+[2021-05-10 21:03:00][notice]Start retrying optimization. Count:2
+[2021-05-10 21:03:00][notice]Start compressing image cropped-jaynelle-768x1024-3-600x400-1-300x300.jpg
+[2021-05-10 21:03:00][notice]Compressing image cropped-jaynelle-768x1024-3-600x400-1-300x300.jpg failed. Error:Need login
+[2021-05-10 21:03:00][notice]Start retrying optimization. Count:3
+[2021-05-10 21:03:00][error]Compressing image cropped-jaynelle-768x1024-3-600x400-1-300x300.jpg failed. Error:Need login

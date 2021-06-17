@@ -1,0 +1,71 @@
+/* WYSIHTML */
+.wysihtml5-placeholder {
+	color: #aaa !important;
+}
+.fca-wysiwyg-html {
+	width: 100%;
+	box-sizing: border-box;
+	min-height: 150px
+}
+.fca-wysiwyg-nav {
+	margin-bottom: 8px;
+	height: 34px
+}
+.fca-wysiwyg-group {
+	display: inline-block;
+	margin-right: 8px;
+}
+.fca-wysiwyg-nav button {
+	width: 34px;
+	height: 30px;
+	color: #616870;
+	background-color: #f6f6f6;
+	border: solid 1px #d9d9d9;
+	cursor: pointer
+}
+button.fca-wysiwyg-view-html {
+	width: auto;
+	float: right;
+	position: relative;
+	top: 3px
+}
+.fca-wysiwyg-nav button.wysihtml5-command-active,
+.fca-wysiwyg-nav button:active,
+.fca-wysiwyg-nav button:focus,
+.fca-wysiwyg-nav button:hover,
+button.wysihtml5-action-active {
+	background-color: #e0e0e0;
+	border: solid 1px #545d67!important;
+	outline: 0
+}
+.fca-wysiwyg-nav button.fca-nav-no-border {
+	border-left: 0;
+	border-right: 0
+}
+.fca-nav-rounded-left {
+	border: solid 1px #d9d9d9;
+	border-radius: 2px 0 0 2px
+}
+.fca-nav-rounded-right {
+	border: solid 1px #d9d9d9;
+	border-radius: 0 2px 2px 0
+}
+.fca-wysiwyg-url-dialog {
+	display: inline-block;
+	margin-left: 5px
+}
+.fca-wysiwyg-url-dialog a.button {
+	margin: 2px 0 0 5px
+}
+.fca-wysiwyg-url-dialog input {
+	width: calc(100% - 120px)!important
+}
+.wysiwyg-text-align-left {
+	text-align: left!important
+}
+.wysiwyg-text-align-right {
+	text-align: right!important
+}
+.wysiwyg-text-align-center {
+	text-align: center!important
+}

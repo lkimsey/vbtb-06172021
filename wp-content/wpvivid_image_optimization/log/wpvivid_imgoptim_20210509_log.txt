@@ -1,0 +1,488 @@
+[2021-05-09 17:49:02][notice]Start backing up image(s).
+[2021-05-09 17:49:02][notice]Start compressing image banquet-free-img-300x200.jpg
+[2021-05-09 17:49:02][notice]Compressing image banquet-free-img-300x200.jpg failed. Error:Need login
+[2021-05-09 17:49:02][notice]Start retrying optimization. Count:1
+[2021-05-09 17:49:02][notice]Start compressing image banquet-free-img-300x200.jpg
+[2021-05-09 17:49:02][notice]Compressing image banquet-free-img-300x200.jpg failed. Error:Need login
+[2021-05-09 17:49:02][notice]Start retrying optimization. Count:2
+[2021-05-09 17:49:02][notice]Start compressing image banquet-free-img-300x200.jpg
+[2021-05-09 17:49:02][notice]Compressing image banquet-free-img-300x200.jpg failed. Error:Need login
+[2021-05-09 17:49:02][notice]Start retrying optimization. Count:3
+[2021-05-09 17:49:02][error]Compressing image banquet-free-img-300x200.jpg failed. Error:Need login
+[2021-05-09 17:49:02][notice]Start backing up image(s).
+[2021-05-09 17:49:02][notice]Start compressing image bar-free-img-300x200.jpg
+[2021-05-09 17:49:02][notice]Compressing image bar-free-img-300x200.jpg failed. Error:Need login
+[2021-05-09 17:49:02][notice]Start retrying optimization. Count:1
+[2021-05-09 17:49:02][notice]Start compressing image bar-free-img-300x200.jpg
+[2021-05-09 17:49:02][notice]Compressing image bar-free-img-300x200.jpg failed. Error:Need login
+[2021-05-09 17:49:02][notice]Start retrying optimization. Count:2
+[2021-05-09 17:49:02][notice]Start compressing image bar-free-img-300x200.jpg
+[2021-05-09 17:49:02][notice]Compressing image bar-free-img-300x200.jpg failed. Error:Need login
+[2021-05-09 17:49:02][notice]Start retrying optimization. Count:3
+[2021-05-09 17:49:02][error]Compressing image bar-free-img-300x200.jpg failed. Error:Need login
+[2021-05-09 17:49:03][notice]Start backing up image(s).
+[2021-05-09 17:49:03][notice]Start compressing image breakfast-free-img-300x200.jpg
+[2021-05-09 17:49:03][notice]Compressing image breakfast-free-img-300x200.jpg failed. Error:Need login
+[2021-05-09 17:49:03][notice]Start retrying optimization. Count:1
+[2021-05-09 17:49:03][notice]Start compressing image breakfast-free-img-300x200.jpg
+[2021-05-09 17:49:03][notice]Compressing image breakfast-free-img-300x200.jpg failed. Error:Need login
+[2021-05-09 17:49:03][notice]Start retrying optimization. Count:2
+[2021-05-09 17:49:03][notice]Start compressing image breakfast-free-img-300x200.jpg
+[2021-05-09 17:49:03][notice]Compressing image breakfast-free-img-300x200.jpg failed. Error:Need login
+[2021-05-09 17:49:03][notice]Start retrying optimization. Count:3
+[2021-05-09 17:49:03][error]Compressing image breakfast-free-img-300x200.jpg failed. Error:Need login
+[2021-05-09 17:49:04][notice]Start backing up image(s).
+[2021-05-09 17:49:04][notice]Start compressing image swimming-pool-free-img-300x200.jpg
+[2021-05-09 17:49:04][notice]Compressing image swimming-pool-free-img-300x200.jpg failed. Error:Need login
+[2021-05-09 17:49:04][notice]Start retrying optimization. Count:1
+[2021-05-09 17:49:04][notice]Start compressing image swimming-pool-free-img-300x200.jpg
+[2021-05-09 17:49:04][notice]Compressing image swimming-pool-free-img-300x200.jpg failed. Error:Need login
+[2021-05-09 17:49:04][notice]Start retrying optimization. Count:2
+[2021-05-09 17:49:04][notice]Start compressing image swimming-pool-free-img-300x200.jpg
+[2021-05-09 17:49:04][notice]Compressing image swimming-pool-free-img-300x200.jpg failed. Error:Need login
+[2021-05-09 17:49:04][notice]Start retrying optimization. Count:3
+[2021-05-09 17:49:04][error]Compressing image swimming-pool-free-img-300x200.jpg failed. Error:Need login
+[2021-05-09 17:49:04][notice]Start backing up image(s).
+[2021-05-09 17:49:04][notice]Start compressing image toileteries-free-img-300x200.jpg
+[2021-05-09 17:49:04][notice]Compressing image toileteries-free-img-300x200.jpg failed. Error:Need login
+[2021-05-09 17:49:04][notice]Start retrying optimization. Count:1
+[2021-05-09 17:49:04][notice]Start compressing image toileteries-free-img-300x200.jpg
+[2021-05-09 17:49:04][notice]Compressing image toileteries-free-img-300x200.jpg failed. Error:Need login
+[2021-05-09 17:49:04][notice]Start retrying optimization. Count:2
+[2021-05-09 17:49:04][notice]Start compressing image toileteries-free-img-300x200.jpg
+[2021-05-09 17:49:04][notice]Compressing image toileteries-free-img-300x200.jpg failed. Error:Need login
+[2021-05-09 17:49:04][notice]Start retrying optimization. Count:3
+[2021-05-09 17:49:04][error]Compressing image toileteries-free-img-300x200.jpg failed. Error:Need login
+[2021-05-09 17:49:05][notice]Start backing up image(s).
+[2021-05-09 17:49:05][notice]Start compressing image car-rental-free-img.png
+[2021-05-09 17:49:05][notice]Compressing image car-rental-free-img.png failed. Error:Need login
+[2021-05-09 17:49:05][notice]Start retrying optimization. Count:1
+[2021-05-09 17:49:05][notice]Start compressing image car-rental-free-img.png
+[2021-05-09 17:49:05][notice]Compressing image car-rental-free-img.png failed. Error:Need login
+[2021-05-09 17:49:05][notice]Start retrying optimization. Count:2
+[2021-05-09 17:49:05][notice]Start compressing image car-rental-free-img.png
+[2021-05-09 17:49:05][notice]Compressing image car-rental-free-img.png failed. Error:Need login
+[2021-05-09 17:49:05][notice]Start retrying optimization. Count:3
+[2021-05-09 17:49:05][error]Compressing image car-rental-free-img.png failed. Error:Need login
+[2021-05-09 17:49:05][notice]Start backing up image(s).
+[2021-05-09 17:49:05][notice]Start compressing image cafe-free-img.png
+[2021-05-09 17:49:05][notice]Compressing image cafe-free-img.png failed. Error:Need login
+[2021-05-09 17:49:05][notice]Start retrying optimization. Count:1
+[2021-05-09 17:49:05][notice]Start compressing image cafe-free-img.png
+[2021-05-09 17:49:05][notice]Compressing image cafe-free-img.png failed. Error:Need login
+[2021-05-09 17:49:05][notice]Start retrying optimization. Count:2
+[2021-05-09 17:49:05][notice]Start compressing image cafe-free-img.png
+[2021-05-09 17:49:05][notice]Compressing image cafe-free-img.png failed. Error:Need login
+[2021-05-09 17:49:05][notice]Start retrying optimization. Count:3
+[2021-05-09 17:49:05][error]Compressing image cafe-free-img.png failed. Error:Need login
+[2021-05-09 17:49:05][notice]Start backing up image(s).
+[2021-05-09 17:49:05][notice]Start compressing image dryer-free-img.png
+[2021-05-09 17:49:05][notice]Compressing image dryer-free-img.png failed. Error:Need login
+[2021-05-09 17:49:05][notice]Start retrying optimization. Count:1
+[2021-05-09 17:49:05][notice]Start compressing image dryer-free-img.png
+[2021-05-09 17:49:05][notice]Compressing image dryer-free-img.png failed. Error:Need login
+[2021-05-09 17:49:06][notice]Start retrying optimization. Count:2
+[2021-05-09 17:49:06][notice]Start compressing image dryer-free-img.png
+[2021-05-09 17:49:06][notice]Compressing image dryer-free-img.png failed. Error:Need login
+[2021-05-09 17:49:06][notice]Start retrying optimization. Count:3
+[2021-05-09 17:49:06][error]Compressing image dryer-free-img.png failed. Error:Need login
+[2021-05-09 17:49:06][notice]Start backing up image(s).
+[2021-05-09 17:49:06][notice]Start compressing image reception-free-img.png
+[2021-05-09 17:49:06][notice]Compressing image reception-free-img.png failed. Error:Need login
+[2021-05-09 17:49:06][notice]Start retrying optimization. Count:1
+[2021-05-09 17:49:06][notice]Start compressing image reception-free-img.png
+[2021-05-09 17:49:06][notice]Compressing image reception-free-img.png failed. Error:Need login
+[2021-05-09 17:49:06][notice]Start retrying optimization. Count:2
+[2021-05-09 17:49:06][notice]Start compressing image reception-free-img.png
+[2021-05-09 17:49:06][notice]Compressing image reception-free-img.png failed. Error:Need login
+[2021-05-09 17:49:06][notice]Start retrying optimization. Count:3
+[2021-05-09 17:49:06][error]Compressing image reception-free-img.png failed. Error:Need login
+[2021-05-09 17:49:06][notice]Start backing up image(s).
+[2021-05-09 17:49:06][notice]Start compressing image restaurant-free-img.png
+[2021-05-09 17:49:06][notice]Compressing image restaurant-free-img.png failed. Error:Need login
+[2021-05-09 17:49:06][notice]Start retrying optimization. Count:1
+[2021-05-09 17:49:06][notice]Start compressing image restaurant-free-img.png
+[2021-05-09 17:49:06][notice]Compressing image restaurant-free-img.png failed. Error:Need login
+[2021-05-09 17:49:06][notice]Start retrying optimization. Count:2
+[2021-05-09 17:49:06][notice]Start compressing image restaurant-free-img.png
+[2021-05-09 17:49:06][notice]Compressing image restaurant-free-img.png failed. Error:Need login
+[2021-05-09 17:49:06][notice]Start retrying optimization. Count:3
+[2021-05-09 17:49:06][error]Compressing image restaurant-free-img.png failed. Error:Need login
+[2021-05-09 17:49:07][notice]Start backing up image(s).
+[2021-05-09 17:49:07][notice]Start compressing image room-service-free-img.png
+[2021-05-09 17:49:07][notice]Compressing image room-service-free-img.png failed. Error:Need login
+[2021-05-09 17:49:07][notice]Start retrying optimization. Count:1
+[2021-05-09 17:49:07][notice]Start compressing image room-service-free-img.png
+[2021-05-09 17:49:07][notice]Compressing image room-service-free-img.png failed. Error:Need login
+[2021-05-09 17:49:07][notice]Start retrying optimization. Count:2
+[2021-05-09 17:49:07][notice]Start compressing image room-service-free-img.png
+[2021-05-09 17:49:07][notice]Compressing image room-service-free-img.png failed. Error:Need login
+[2021-05-09 17:49:07][notice]Start retrying optimization. Count:3
+[2021-05-09 17:49:07][error]Compressing image room-service-free-img.png failed. Error:Need login
+[2021-05-09 17:49:07][notice]Start backing up image(s).
+[2021-05-09 17:49:07][notice]Start compressing image wifi-free-img.png
+[2021-05-09 17:49:07][notice]Compressing image wifi-free-img.png failed. Error:Need login
+[2021-05-09 17:49:07][notice]Start retrying optimization. Count:1
+[2021-05-09 17:49:07][notice]Start compressing image wifi-free-img.png
+[2021-05-09 17:49:07][notice]Compressing image wifi-free-img.png failed. Error:Need login
+[2021-05-09 17:49:07][notice]Start retrying optimization. Count:2
+[2021-05-09 17:49:07][notice]Start compressing image wifi-free-img.png
+[2021-05-09 17:49:07][notice]Compressing image wifi-free-img.png failed. Error:Need login
+[2021-05-09 17:49:07][notice]Start retrying optimization. Count:3
+[2021-05-09 17:49:07][error]Compressing image wifi-free-img.png failed. Error:Need login
+[2021-05-09 17:49:08][notice]Start backing up image(s).
+[2021-05-09 17:49:08][notice]Start compressing image slide1-free-img-300x300.jpg
+[2021-05-09 17:49:08][notice]Compressing image slide1-free-img-300x300.jpg failed. Error:Need login
+[2021-05-09 17:49:08][notice]Start retrying optimization. Count:1
+[2021-05-09 17:49:08][notice]Start compressing image slide1-free-img-300x300.jpg
+[2021-05-09 17:49:08][notice]Compressing image slide1-free-img-300x300.jpg failed. Error:Need login
+[2021-05-09 17:49:08][notice]Start retrying optimization. Count:2
+[2021-05-09 17:49:08][notice]Start compressing image slide1-free-img-300x300.jpg
+[2021-05-09 17:49:08][notice]Compressing image slide1-free-img-300x300.jpg failed. Error:Need login
+[2021-05-09 17:49:08][notice]Start retrying optimization. Count:3
+[2021-05-09 17:49:08][error]Compressing image slide1-free-img-300x300.jpg failed. Error:Need login
+[2021-05-09 17:49:08][notice]Start backing up image(s).
+[2021-05-09 17:49:08][notice]Start compressing image slide2-free-img-300x300.jpg
+[2021-05-09 17:49:08][notice]Compressing image slide2-free-img-300x300.jpg failed. Error:Need login
+[2021-05-09 17:49:08][notice]Start retrying optimization. Count:1
+[2021-05-09 17:49:08][notice]Start compressing image slide2-free-img-300x300.jpg
+[2021-05-09 17:49:08][notice]Compressing image slide2-free-img-300x300.jpg failed. Error:Need login
+[2021-05-09 17:49:08][notice]Start retrying optimization. Count:2
+[2021-05-09 17:49:08][notice]Start compressing image slide2-free-img-300x300.jpg
+[2021-05-09 17:49:08][notice]Compressing image slide2-free-img-300x300.jpg failed. Error:Need login
+[2021-05-09 17:49:08][notice]Start retrying optimization. Count:3
+[2021-05-09 17:49:08][error]Compressing image slide2-free-img-300x300.jpg failed. Error:Need login
+[2021-05-09 17:49:09][notice]Start backing up image(s).
+[2021-05-09 17:49:09][notice]Start compressing image slide3-free-img-300x300.jpg
+[2021-05-09 17:49:09][notice]Compressing image slide3-free-img-300x300.jpg failed. Error:Need login
+[2021-05-09 17:49:09][notice]Start retrying optimization. Count:1
+[2021-05-09 17:49:09][notice]Start compressing image slide3-free-img-300x300.jpg
+[2021-05-09 17:49:09][notice]Compressing image slide3-free-img-300x300.jpg failed. Error:Need login
+[2021-05-09 17:49:09][notice]Start retrying optimization. Count:2
+[2021-05-09 17:49:09][notice]Start compressing image slide3-free-img-300x300.jpg
+[2021-05-09 17:49:09][notice]Compressing image slide3-free-img-300x300.jpg failed. Error:Need login
+[2021-05-09 17:49:09][notice]Start retrying optimization. Count:3
+[2021-05-09 17:49:09][error]Compressing image slide3-free-img-300x300.jpg failed. Error:Need login
+[2021-05-09 17:49:09][notice]Start backing up image(s).
+[2021-05-09 17:49:09][notice]Start compressing image slide5-free-img-300x300.jpg
+[2021-05-09 17:49:09][notice]Compressing image slide5-free-img-300x300.jpg failed. Error:Need login
+[2021-05-09 17:49:09][notice]Start retrying optimization. Count:1
+[2021-05-09 17:49:09][notice]Start compressing image slide5-free-img-300x300.jpg
+[2021-05-09 17:49:09][notice]Compressing image slide5-free-img-300x300.jpg failed. Error:Need login
+[2021-05-09 17:49:09][notice]Start retrying optimization. Count:2
+[2021-05-09 17:49:09][notice]Start compressing image slide5-free-img-300x300.jpg
+[2021-05-09 17:49:09][notice]Compressing image slide5-free-img-300x300.jpg failed. Error:Need login
+[2021-05-09 17:49:09][notice]Start retrying optimization. Count:3
+[2021-05-09 17:49:09][error]Compressing image slide5-free-img-300x300.jpg failed. Error:Need login
+[2021-05-09 17:49:10][notice]Start resizing image id:177
+[2021-05-09 17:49:10][notice]Start resizing image id:177
+[2021-05-09 17:49:10][notice]Start backing up image(s).
+[2021-05-09 17:49:10][notice]Start compressing image cta-bg-free-img-300x169.jpg
+[2021-05-09 17:49:10][notice]Compressing image cta-bg-free-img-300x169.jpg failed. Error:Need login
+[2021-05-09 17:49:10][notice]Start retrying optimization. Count:1
+[2021-05-09 17:49:10][notice]Start compressing image cta-bg-free-img-300x169.jpg
+[2021-05-09 17:49:10][notice]Compressing image cta-bg-free-img-300x169.jpg failed. Error:Need login
+[2021-05-09 17:49:10][notice]Start retrying optimization. Count:2
+[2021-05-09 17:49:10][notice]Start compressing image cta-bg-free-img-300x169.jpg
+[2021-05-09 17:49:10][notice]Compressing image cta-bg-free-img-300x169.jpg failed. Error:Need login
+[2021-05-09 17:49:10][notice]Start retrying optimization. Count:3
+[2021-05-09 17:49:10][error]Compressing image cta-bg-free-img-300x169.jpg failed. Error:Need login
+[2021-05-09 17:49:10][notice]Start backing up image(s).
+[2021-05-09 17:49:10][notice]Start compressing image cta-bg-free-img-300x169.jpg
+[2021-05-09 17:49:10][notice]Compressing image cta-bg-free-img-300x169.jpg failed. Error:Need login
+[2021-05-09 17:49:10][notice]Start retrying optimization. Count:1
+[2021-05-09 17:49:10][notice]Start compressing image cta-bg-free-img-300x169.jpg
+[2021-05-09 17:49:10][notice]Compressing image cta-bg-free-img-300x169.jpg failed. Error:Need login
+[2021-05-09 17:49:10][notice]Start retrying optimization. Count:2
+[2021-05-09 17:49:10][notice]Start compressing image cta-bg-free-img-300x169.jpg
+[2021-05-09 17:49:10][notice]Compressing image cta-bg-free-img-300x169.jpg failed. Error:Need login
+[2021-05-09 17:49:10][notice]Start retrying optimization. Count:3
+[2021-05-09 17:49:10][error]Compressing image cta-bg-free-img-300x169.jpg failed. Error:Need login
+[2021-05-09 17:49:11][notice]Start backing up image(s).
+[2021-05-09 17:49:11][notice]Start compressing image double-room-free-img-300x200.jpg
+[2021-05-09 17:49:11][notice]Compressing image double-room-free-img-300x200.jpg failed. Error:Need login
+[2021-05-09 17:49:11][notice]Start retrying optimization. Count:1
+[2021-05-09 17:49:11][notice]Start compressing image double-room-free-img-300x200.jpg
+[2021-05-09 17:49:11][notice]Compressing image double-room-free-img-300x200.jpg failed. Error:Need login
+[2021-05-09 17:49:11][notice]Start retrying optimization. Count:2
+[2021-05-09 17:49:11][notice]Start compressing image double-room-free-img-300x200.jpg
+[2021-05-09 17:49:11][notice]Compressing image double-room-free-img-300x200.jpg failed. Error:Need login
+[2021-05-09 17:49:11][notice]Start retrying optimization. Count:3
+[2021-05-09 17:49:11][error]Compressing image double-room-free-img-300x200.jpg failed. Error:Need login
+[2021-05-09 17:49:11][notice]Start backing up image(s).
+[2021-05-09 17:49:11][notice]Start compressing image duplex-suite-free-img-300x200.jpg
+[2021-05-09 17:49:11][notice]Compressing image duplex-suite-free-img-300x200.jpg failed. Error:Need login
+[2021-05-09 17:49:11][notice]Start retrying optimization. Count:1
+[2021-05-09 17:49:11][notice]Start compressing image duplex-suite-free-img-300x200.jpg
+[2021-05-09 17:49:11][notice]Compressing image duplex-suite-free-img-300x200.jpg failed. Error:Need login
+[2021-05-09 17:49:11][notice]Start retrying optimization. Count:2
+[2021-05-09 17:49:11][notice]Start compressing image duplex-suite-free-img-300x200.jpg
+[2021-05-09 17:49:11][notice]Compressing image duplex-suite-free-img-300x200.jpg failed. Error:Need login
+[2021-05-09 17:49:12][notice]Start retrying optimization. Count:3
+[2021-05-09 17:49:12][error]Compressing image duplex-suite-free-img-300x200.jpg failed. Error:Need login
+[2021-05-09 17:49:12][notice]Start backing up image(s).
+[2021-05-09 17:49:12][notice]Start compressing image executive-suite-free-img-300x225.jpg
+[2021-05-09 17:49:12][notice]Compressing image executive-suite-free-img-300x225.jpg failed. Error:Need login
+[2021-05-09 17:49:12][notice]Start retrying optimization. Count:1
+[2021-05-09 17:49:12][notice]Start compressing image executive-suite-free-img-300x225.jpg
+[2021-05-09 17:49:12][notice]Compressing image executive-suite-free-img-300x225.jpg failed. Error:Need login
+[2021-05-09 17:49:12][notice]Start retrying optimization. Count:2
+[2021-05-09 17:49:12][notice]Start compressing image executive-suite-free-img-300x225.jpg
+[2021-05-09 17:49:12][notice]Compressing image executive-suite-free-img-300x225.jpg failed. Error:Need login
+[2021-05-09 17:49:12][notice]Start retrying optimization. Count:3
+[2021-05-09 17:49:12][error]Compressing image executive-suite-free-img-300x225.jpg failed. Error:Need login
+[2021-05-09 17:49:12][notice]Start backing up image(s).
+[2021-05-09 17:49:12][notice]Start compressing image bar-free-img.png
+[2021-05-09 17:49:12][notice]Compressing image bar-free-img.png failed. Error:Need login
+[2021-05-09 17:49:12][notice]Start retrying optimization. Count:1
+[2021-05-09 17:49:12][notice]Start compressing image bar-free-img.png
+[2021-05-09 17:49:12][notice]Compressing image bar-free-img.png failed. Error:Need login
+[2021-05-09 17:49:12][notice]Start retrying optimization. Count:2
+[2021-05-09 17:49:12][notice]Start compressing image bar-free-img.png
+[2021-05-09 17:49:12][notice]Compressing image bar-free-img.png failed. Error:Need login
+[2021-05-09 17:49:12][notice]Start retrying optimization. Count:3
+[2021-05-09 17:49:12][error]Compressing image bar-free-img.png failed. Error:Need login
+[2021-05-09 17:49:13][notice]Start backing up image(s).
+[2021-05-09 17:49:13][notice]Start compressing image bath-tub-free-img.png
+[2021-05-09 17:49:13][notice]Compressing image bath-tub-free-img.png failed. Error:Need login
+[2021-05-09 17:49:13][notice]Start retrying optimization. Count:1
+[2021-05-09 17:49:13][notice]Start compressing image bath-tub-free-img.png
+[2021-05-09 17:49:13][notice]Compressing image bath-tub-free-img.png failed. Error:Need login
+[2021-05-09 17:49:13][notice]Start retrying optimization. Count:2
+[2021-05-09 17:49:13][notice]Start compressing image bath-tub-free-img.png
+[2021-05-09 17:49:13][notice]Compressing image bath-tub-free-img.png failed. Error:Need login
+[2021-05-09 17:49:13][notice]Start retrying optimization. Count:3
+[2021-05-09 17:49:13][error]Compressing image bath-tub-free-img.png failed. Error:Need login
+[2021-05-09 17:49:13][notice]Start backing up image(s).
+[2021-05-09 17:49:13][notice]Start compressing image room-service-free-img-1.png
+[2021-05-09 17:49:13][notice]Compressing image room-service-free-img-1.png failed. Error:Need login
+[2021-05-09 17:49:13][notice]Start retrying optimization. Count:1
+[2021-05-09 17:49:13][notice]Start compressing image room-service-free-img-1.png
+[2021-05-09 17:49:13][notice]Compressing image room-service-free-img-1.png failed. Error:Need login
+[2021-05-09 17:49:13][notice]Start retrying optimization. Count:2
+[2021-05-09 17:49:13][notice]Start compressing image room-service-free-img-1.png
+[2021-05-09 17:49:13][notice]Compressing image room-service-free-img-1.png failed. Error:Need login
+[2021-05-09 17:49:13][notice]Start retrying optimization. Count:3
+[2021-05-09 17:49:13][error]Compressing image room-service-free-img-1.png failed. Error:Need login
+[2021-05-09 17:49:16][notice]Start backing up image(s).
+[2021-05-09 17:49:16][notice]Start compressing image sea-view-free-img.png
+[2021-05-09 17:49:16][notice]Compressing image sea-view-free-img.png failed. Error:Need login
+[2021-05-09 17:49:16][notice]Start retrying optimization. Count:1
+[2021-05-09 17:49:16][notice]Start compressing image sea-view-free-img.png
+[2021-05-09 17:49:16][notice]Compressing image sea-view-free-img.png failed. Error:Need login
+[2021-05-09 17:49:16][notice]Start retrying optimization. Count:2
+[2021-05-09 17:49:16][notice]Start compressing image sea-view-free-img.png
+[2021-05-09 17:49:16][notice]Compressing image sea-view-free-img.png failed. Error:Need login
+[2021-05-09 17:49:16][notice]Start retrying optimization. Count:3
+[2021-05-09 17:49:16][error]Compressing image sea-view-free-img.png failed. Error:Need login
+[2021-05-09 17:49:17][notice]Start backing up image(s).
+[2021-05-09 17:49:17][notice]Start compressing image wifi-free-img-1.png
+[2021-05-09 17:49:17][notice]Compressing image wifi-free-img-1.png failed. Error:Need login
+[2021-05-09 17:49:17][notice]Start retrying optimization. Count:1
+[2021-05-09 17:49:17][notice]Start compressing image wifi-free-img-1.png
+[2021-05-09 17:49:17][notice]Compressing image wifi-free-img-1.png failed. Error:Need login
+[2021-05-09 17:49:17][notice]Start retrying optimization. Count:2
+[2021-05-09 17:49:17][notice]Start compressing image wifi-free-img-1.png
+[2021-05-09 17:49:17][notice]Compressing image wifi-free-img-1.png failed. Error:Need login
+[2021-05-09 17:49:17][notice]Start retrying optimization. Count:3
+[2021-05-09 17:49:17][error]Compressing image wifi-free-img-1.png failed. Error:Need login
+[2021-05-09 17:49:17][notice]Start backing up image(s).
+[2021-05-09 17:49:17][notice]Start compressing image favicon-free-img.png
+[2021-05-09 17:49:17][notice]Compressing image favicon-free-img.png failed. Error:Need login
+[2021-05-09 17:49:17][notice]Start retrying optimization. Count:1
+[2021-05-09 17:49:17][notice]Start compressing image favicon-free-img.png
+[2021-05-09 17:49:17][notice]Compressing image favicon-free-img.png failed. Error:Need login
+[2021-05-09 17:49:17][notice]Start retrying optimization. Count:2
+[2021-05-09 17:49:17][notice]Start compressing image favicon-free-img.png
+[2021-05-09 17:49:17][notice]Compressing image favicon-free-img.png failed. Error:Need login
+[2021-05-09 17:49:17][notice]Start retrying optimization. Count:3
+[2021-05-09 17:49:17][error]Compressing image favicon-free-img.png failed. Error:Need login
+[2021-05-09 17:49:18][notice]Start resizing image id:311
+[2021-05-09 17:49:18][notice]Start resizing image id:311
+[2021-05-09 17:49:18][notice]Start backing up image(s).
+[2021-05-09 17:49:18][notice]Start compressing image home-banner-free-img-300x169.jpg
+[2021-05-09 17:49:18][notice]Compressing image home-banner-free-img-300x169.jpg failed. Error:Need login
+[2021-05-09 17:49:18][notice]Start retrying optimization. Count:1
+[2021-05-09 17:49:18][notice]Start compressing image home-banner-free-img-300x169.jpg
+[2021-05-09 17:49:18][notice]Compressing image home-banner-free-img-300x169.jpg failed. Error:Need login
+[2021-05-09 17:49:18][notice]Start retrying optimization. Count:2
+[2021-05-09 17:49:18][notice]Start compressing image home-banner-free-img-300x169.jpg
+[2021-05-09 17:49:18][notice]Compressing image home-banner-free-img-300x169.jpg failed. Error:Need login
+[2021-05-09 17:49:18][notice]Start retrying optimization. Count:3
+[2021-05-09 17:49:18][error]Compressing image home-banner-free-img-300x169.jpg failed. Error:Need login
+[2021-05-09 17:49:18][notice]Start backing up image(s).
+[2021-05-09 17:49:18][notice]Start compressing image home-banner-free-img-300x169.jpg
+[2021-05-09 17:49:18][notice]Compressing image home-banner-free-img-300x169.jpg failed. Error:Need login
+[2021-05-09 17:49:18][notice]Start retrying optimization. Count:1
+[2021-05-09 17:49:18][notice]Start compressing image home-banner-free-img-300x169.jpg
+[2021-05-09 17:49:18][notice]Compressing image home-banner-free-img-300x169.jpg failed. Error:Need login
+[2021-05-09 17:49:18][notice]Start retrying optimization. Count:2
+[2021-05-09 17:49:18][notice]Start compressing image home-banner-free-img-300x169.jpg
+[2021-05-09 17:49:18][notice]Compressing image home-banner-free-img-300x169.jpg failed. Error:Need login
+[2021-05-09 17:49:18][notice]Start retrying optimization. Count:3
+[2021-05-09 17:49:18][error]Compressing image home-banner-free-img-300x169.jpg failed. Error:Need login
+[2021-05-09 17:49:19][notice]Start backing up image(s).
+[2021-05-09 17:49:19][notice]Start compressing image mount-inn-logo-free-img.png
+[2021-05-09 17:49:19][notice]Compressing image mount-inn-logo-free-img.png failed. Error:Need login
+[2021-05-09 17:49:19][notice]Start retrying optimization. Count:1
+[2021-05-09 17:49:19][notice]Start compressing image mount-inn-logo-free-img.png
+[2021-05-09 17:49:19][notice]Compressing image mount-inn-logo-free-img.png failed. Error:Need login
+[2021-05-09 17:49:19][notice]Start retrying optimization. Count:2
+[2021-05-09 17:49:19][notice]Start compressing image mount-inn-logo-free-img.png
+[2021-05-09 17:49:19][notice]Compressing image mount-inn-logo-free-img.png failed. Error:Need login
+[2021-05-09 17:49:19][notice]Start retrying optimization. Count:3
+[2021-05-09 17:49:19][error]Compressing image mount-inn-logo-free-img.png failed. Error:Need login
+[2021-05-09 17:49:19][notice]Start backing up image(s).
+[2021-05-09 17:49:19][notice]Start compressing image mount-inn-logo-@2x-free-img-150x100.png
+[2021-05-09 17:49:19][notice]Compressing image mount-inn-logo-@2x-free-img-150x100.png failed. Error:Need login
+[2021-05-09 17:49:19][notice]Start retrying optimization. Count:1
+[2021-05-09 17:49:19][notice]Start compressing image mount-inn-logo-@2x-free-img-150x100.png
+[2021-05-09 17:49:19][notice]Compressing image mount-inn-logo-@2x-free-img-150x100.png failed. Error:Need login
+[2021-05-09 17:49:19][notice]Start retrying optimization. Count:2
+[2021-05-09 17:49:19][notice]Start compressing image mount-inn-logo-@2x-free-img-150x100.png
+[2021-05-09 17:49:19][notice]Compressing image mount-inn-logo-@2x-free-img-150x100.png failed. Error:Need login
+[2021-05-09 17:49:19][notice]Start retrying optimization. Count:3
+[2021-05-09 17:49:19][error]Compressing image mount-inn-logo-@2x-free-img-150x100.png failed. Error:Need login
+[2021-05-09 17:49:20][notice]Start backing up image(s).
+[2021-05-09 17:49:20][notice]Start compressing image mount-innwhite-logo-free-img.png
+[2021-05-09 17:49:20][notice]Compressing image mount-innwhite-logo-free-img.png failed. Error:Need login
+[2021-05-09 17:49:20][notice]Start retrying optimization. Count:1
+[2021-05-09 17:49:20][notice]Start compressing image mount-innwhite-logo-free-img.png
+[2021-05-09 17:49:20][notice]Compressing image mount-innwhite-logo-free-img.png failed. Error:Need login
+[2021-05-09 17:49:20][notice]Start retrying optimization. Count:2
+[2021-05-09 17:49:20][notice]Start compressing image mount-innwhite-logo-free-img.png
+[2021-05-09 17:49:20][notice]Compressing image mount-innwhite-logo-free-img.png failed. Error:Need login
+[2021-05-09 17:49:20][notice]Start retrying optimization. Count:3
+[2021-05-09 17:49:20][error]Compressing image mount-innwhite-logo-free-img.png failed. Error:Need login
+[2021-05-09 17:49:21][notice]Start backing up image(s).
+[2021-05-09 17:49:21][notice]Start compressing image mount-inn-logo-@2x-free-img-150x100.png
+[2021-05-09 17:49:21][notice]Compressing image mount-inn-logo-@2x-free-img-150x100.png failed. Error:Need login
+[2021-05-09 17:49:21][notice]Start retrying optimization. Count:1
+[2021-05-09 17:49:21][notice]Start compressing image mount-inn-logo-@2x-free-img-150x100.png
+[2021-05-09 17:49:21][notice]Compressing image mount-inn-logo-@2x-free-img-150x100.png failed. Error:Need login
+[2021-05-09 17:49:21][notice]Start retrying optimization. Count:2
+[2021-05-09 17:49:21][notice]Start compressing image mount-inn-logo-@2x-free-img-150x100.png
+[2021-05-09 17:49:21][notice]Compressing image mount-inn-logo-@2x-free-img-150x100.png failed. Error:Need login
+[2021-05-09 17:49:21][notice]Start retrying optimization. Count:3
+[2021-05-09 17:49:21][error]Compressing image mount-inn-logo-@2x-free-img-150x100.png failed. Error:Need login
+[2021-05-09 17:49:21][notice]Start backing up image(s).
+[2021-05-09 17:49:21][notice]Start compressing image balcony-free-img.png
+[2021-05-09 17:49:21][notice]Compressing image balcony-free-img.png failed. Error:Need login
+[2021-05-09 17:49:21][notice]Start retrying optimization. Count:1
+[2021-05-09 17:49:21][notice]Start compressing image balcony-free-img.png
+[2021-05-09 17:49:21][notice]Compressing image balcony-free-img.png failed. Error:Need login
+[2021-05-09 17:49:21][notice]Start retrying optimization. Count:2
+[2021-05-09 17:49:21][notice]Start compressing image balcony-free-img.png
+[2021-05-09 17:49:21][notice]Compressing image balcony-free-img.png failed. Error:Need login
+[2021-05-09 17:49:21][notice]Start retrying optimization. Count:3
+[2021-05-09 17:49:21][error]Compressing image balcony-free-img.png failed. Error:Need login
+[2021-05-09 17:49:21][notice]Start backing up image(s).
+[2021-05-09 17:49:21][notice]Start compressing image mount-inn-logo-free-img.png
+[2021-05-09 17:49:21][notice]Compressing image mount-inn-logo-free-img.png failed. Error:Need login
+[2021-05-09 17:49:22][notice]Start retrying optimization. Count:1
+[2021-05-09 17:49:22][notice]Start compressing image mount-inn-logo-free-img.png
+[2021-05-09 17:49:22][notice]Compressing image mount-inn-logo-free-img.png failed. Error:Need login
+[2021-05-09 17:49:22][notice]Start retrying optimization. Count:2
+[2021-05-09 17:49:22][notice]Start compressing image mount-inn-logo-free-img.png
+[2021-05-09 17:49:22][notice]Compressing image mount-inn-logo-free-img.png failed. Error:Need login
+[2021-05-09 17:49:22][notice]Start retrying optimization. Count:3
+[2021-05-09 17:49:22][error]Compressing image mount-inn-logo-free-img.png failed. Error:Need login
+[2021-05-09 17:49:22][notice]Start backing up image(s).
+[2021-05-09 17:49:22][notice]Start compressing image hotel-spa-300x200.jpg
+[2021-05-09 17:49:22][notice]Compressing image hotel-spa-300x200.jpg failed. Error:Need login
+[2021-05-09 17:49:22][notice]Start retrying optimization. Count:1
+[2021-05-09 17:49:22][notice]Start compressing image hotel-spa-300x200.jpg
+[2021-05-09 17:49:22][notice]Compressing image hotel-spa-300x200.jpg failed. Error:Need login
+[2021-05-09 17:49:22][notice]Start retrying optimization. Count:2
+[2021-05-09 17:49:22][notice]Start compressing image hotel-spa-300x200.jpg
+[2021-05-09 17:49:22][notice]Compressing image hotel-spa-300x200.jpg failed. Error:Need login
+[2021-05-09 17:49:22][notice]Start retrying optimization. Count:3
+[2021-05-09 17:49:22][error]Compressing image hotel-spa-300x200.jpg failed. Error:Need login
+[2021-05-09 17:49:23][notice]Start backing up image(s).
+[2021-05-09 17:49:23][notice]Start compressing image hotel-meal-300x200.jpg
+[2021-05-09 17:49:23][notice]Compressing image hotel-meal-300x200.jpg failed. Error:Need login
+[2021-05-09 17:49:23][notice]Start retrying optimization. Count:1
+[2021-05-09 17:49:23][notice]Start compressing image hotel-meal-300x200.jpg
+[2021-05-09 17:49:23][notice]Compressing image hotel-meal-300x200.jpg failed. Error:Need login
+[2021-05-09 17:49:23][notice]Start retrying optimization. Count:2
+[2021-05-09 17:49:23][notice]Start compressing image hotel-meal-300x200.jpg
+[2021-05-09 17:49:23][notice]Compressing image hotel-meal-300x200.jpg failed. Error:Need login
+[2021-05-09 17:49:23][notice]Start retrying optimization. Count:3
+[2021-05-09 17:49:23][error]Compressing image hotel-meal-300x200.jpg failed. Error:Need login
+[2021-05-09 17:49:24][notice]Start backing up image(s).
+[2021-05-09 17:49:24][notice]Start compressing image hotel-glasses-300x300.jpg
+[2021-05-09 17:49:24][notice]Compressing image hotel-glasses-300x300.jpg failed. Error:Need login
+[2021-05-09 17:49:24][notice]Start retrying optimization. Count:1
+[2021-05-09 17:49:24][notice]Start compressing image hotel-glasses-300x300.jpg
+[2021-05-09 17:49:24][notice]Compressing image hotel-glasses-300x300.jpg failed. Error:Need login
+[2021-05-09 17:49:24][notice]Start retrying optimization. Count:2
+[2021-05-09 17:49:24][notice]Start compressing image hotel-glasses-300x300.jpg
+[2021-05-09 17:49:24][notice]Compressing image hotel-glasses-300x300.jpg failed. Error:Need login
+[2021-05-09 17:49:24][notice]Start retrying optimization. Count:3
+[2021-05-09 17:49:24][error]Compressing image hotel-glasses-300x300.jpg failed. Error:Need login
+[2021-05-09 17:49:24][notice]Start backing up image(s).
+[2021-05-09 17:49:24][notice]Start compressing image hotel-dish-300x300.jpg
+[2021-05-09 17:49:24][notice]Compressing image hotel-dish-300x300.jpg failed. Error:Need login
+[2021-05-09 17:49:24][notice]Start retrying optimization. Count:1
+[2021-05-09 17:49:24][notice]Start compressing image hotel-dish-300x300.jpg
+[2021-05-09 17:49:24][notice]Compressing image hotel-dish-300x300.jpg failed. Error:Need login
+[2021-05-09 17:49:24][notice]Start retrying optimization. Count:2
+[2021-05-09 17:49:24][notice]Start compressing image hotel-dish-300x300.jpg
+[2021-05-09 17:49:24][notice]Compressing image hotel-dish-300x300.jpg failed. Error:Need login
+[2021-05-09 17:49:24][notice]Start retrying optimization. Count:3
+[2021-05-09 17:49:24][error]Compressing image hotel-dish-300x300.jpg failed. Error:Need login
+[2021-05-09 17:49:25][notice]Start backing up image(s).
+[2021-05-09 17:49:25][notice]Start compressing image hotel-single-room-300x300.jpg
+[2021-05-09 17:49:25][notice]Compressing image hotel-single-room-300x300.jpg failed. Error:Need login
+[2021-05-09 17:49:25][notice]Start retrying optimization. Count:1
+[2021-05-09 17:49:25][notice]Start compressing image hotel-single-room-300x300.jpg
+[2021-05-09 17:49:25][notice]Compressing image hotel-single-room-300x300.jpg failed. Error:Need login
+[2021-05-09 17:49:25][notice]Start retrying optimization. Count:2
+[2021-05-09 17:49:25][notice]Start compressing image hotel-single-room-300x300.jpg
+[2021-05-09 17:49:25][notice]Compressing image hotel-single-room-300x300.jpg failed. Error:Need login
+[2021-05-09 17:49:25][notice]Start retrying optimization. Count:3
+[2021-05-09 17:49:25][error]Compressing image hotel-single-room-300x300.jpg failed. Error:Need login
+[2021-05-09 17:49:26][notice]Start backing up image(s).
+[2021-05-09 17:49:26][notice]Start compressing image hotel-linens-300x200.jpg
+[2021-05-09 17:49:26][notice]Compressing image hotel-linens-300x200.jpg failed. Error:Need login
+[2021-05-09 17:49:26][notice]Start retrying optimization. Count:1
+[2021-05-09 17:49:26][notice]Start compressing image hotel-linens-300x200.jpg
+[2021-05-09 17:49:26][notice]Compressing image hotel-linens-300x200.jpg failed. Error:Need login
+[2021-05-09 17:49:26][notice]Start retrying optimization. Count:2
+[2021-05-09 17:49:26][notice]Start compressing image hotel-linens-300x200.jpg
+[2021-05-09 17:49:26][notice]Compressing image hotel-linens-300x200.jpg failed. Error:Need login
+[2021-05-09 17:49:26][notice]Start retrying optimization. Count:3
+[2021-05-09 17:49:26][error]Compressing image hotel-linens-300x200.jpg failed. Error:Need login
+[2021-05-09 17:49:27][notice]Start backing up image(s).
+[2021-05-09 17:49:27][notice]Start compressing image hotel-bar-300x200.jpg
+[2021-05-09 17:49:27][notice]Compressing image hotel-bar-300x200.jpg failed. Error:Need login
+[2021-05-09 17:49:27][notice]Start retrying optimization. Count:1
+[2021-05-09 17:49:27][notice]Start compressing image hotel-bar-300x200.jpg
+[2021-05-09 17:49:27][notice]Compressing image hotel-bar-300x200.jpg failed. Error:Need login
+[2021-05-09 17:49:27][notice]Start retrying optimization. Count:2
+[2021-05-09 17:49:27][notice]Start compressing image hotel-bar-300x200.jpg
+[2021-05-09 17:49:27][notice]Compressing image hotel-bar-300x200.jpg failed. Error:Need login
+[2021-05-09 17:49:27][notice]Start retrying optimization. Count:3
+[2021-05-09 17:49:27][error]Compressing image hotel-bar-300x200.jpg failed. Error:Need login
+[2021-05-09 17:49:28][notice]Start backing up image(s).
+[2021-05-09 17:49:28][notice]Start compressing image hotel-social-img-300x158.jpg
+[2021-05-09 17:49:28][notice]Compressing image hotel-social-img-300x158.jpg failed. Error:Need login
+[2021-05-09 17:49:28][notice]Start retrying optimization. Count:1
+[2021-05-09 17:49:28][notice]Start compressing image hotel-social-img-300x158.jpg
+[2021-05-09 17:49:28][notice]Compressing image hotel-social-img-300x158.jpg failed. Error:Need login
+[2021-05-09 17:49:28][notice]Start retrying optimization. Count:2
+[2021-05-09 17:49:28][notice]Start compressing image hotel-social-img-300x158.jpg
+[2021-05-09 17:49:28][notice]Compressing image hotel-social-img-300x158.jpg failed. Error:Need login
+[2021-05-09 17:49:28][notice]Start retrying optimization. Count:3
+[2021-05-09 17:49:28][error]Compressing image hotel-social-img-300x158.jpg failed. Error:Need login
+[2021-05-09 17:49:31][notice]Start backing up image(s).
+[2021-05-09 17:49:31][notice]Start compressing image astra-inn-white-logo-free-img.png
+[2021-05-09 17:49:31][notice]Compressing image astra-inn-white-logo-free-img.png failed. Error:Need login
+[2021-05-09 17:49:31][notice]Start retrying optimization. Count:1
+[2021-05-09 17:49:31][notice]Start compressing image astra-inn-white-logo-free-img.png
+[2021-05-09 17:49:31][notice]Compressing image astra-inn-white-logo-free-img.png failed. Error:Need login
+[2021-05-09 17:49:31][notice]Start retrying optimization. Count:2
+[2021-05-09 17:49:31][notice]Start compressing image astra-inn-white-logo-free-img.png
+[2021-05-09 17:49:31][notice]Compressing image astra-inn-white-logo-free-img.png failed. Error:Need login
+[2021-05-09 17:49:31][notice]Start retrying optimization. Count:3
+[2021-05-09 17:49:31][error]Compressing image astra-inn-white-logo-free-img.png failed. Error:Need login
