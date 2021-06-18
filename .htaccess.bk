@@ -1,0 +1,13 @@
+
+### Forcing HTTPS rule start       
+RewriteEngine On
+RewriteCond %{HTTPS} off
+RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI} [R=301,L]
+### Forcing HTTPS rule end
+            
+# BEGIN WordPress
+# The directives (lines) between "BEGIN WordPress" and "END WordPress" are
+# dynamically generated, and should only be modified via WordPress filters.
+# Any changes to the directives between these markers will be overwritten.
+
+# END WordPress
